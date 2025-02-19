@@ -29,7 +29,7 @@ Friday is an advanced AI-powered voice assistant capable of performing various t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/friday-ai-assistant.git
+   git clone https://github.com/Muneeb00alii/friday-ai-assistant.git
    ```
 2. Navigate to the project folder:
    ```bash
