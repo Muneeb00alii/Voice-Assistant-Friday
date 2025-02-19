@@ -332,7 +332,7 @@ def thanks(engine):
 def AI (engine, command):
     client = OpenAI(
         base_url="https://api.aimlapi.com/v1",
-        api_key="e9f9e56a02cf4c81b6b805ed39fafe79",    
+        api_key="Add your API key",    
     )
 
     response = client.chat.completions.create(
