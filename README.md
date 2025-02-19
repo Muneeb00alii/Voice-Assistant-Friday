@@ -1,4 +1,3 @@
-# Voice-Assistant-Friday
 # Friday AI Assistant
 
 Friday is an advanced AI-powered voice assistant capable of performing various tasks such as web searching, providing real-time weather updates, delivering the latest news, sending emails, messaging via WhatsApp, integrating AI capabilities, and much more.
