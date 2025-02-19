@@ -1,0 +1,7 @@
+From: Muneeb
+Message: Hey there it's a testing messageFrom: Muneeb
+Message: It's a testing message to see whether contact information is saving
+
+From: Abcd
+Message: A b c d e f g
+
